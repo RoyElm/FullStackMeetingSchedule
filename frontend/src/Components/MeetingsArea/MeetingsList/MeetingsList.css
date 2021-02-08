@@ -1,0 +1,9 @@
+.MeetingsList {
+    position: relative;
+    top: 45px;
+}
+
+.MeetingsListContainer {
+    display: flex;
+    
+}

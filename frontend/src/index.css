@@ -1,0 +1,9 @@
+body,html,#root {
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    height: 100%;
+    background-image: url("./assets/images/meetingBackground.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
